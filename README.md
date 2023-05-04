@@ -19,7 +19,10 @@
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 # Certificates:
+
+<img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg">
+
 - [![UDEMY](https://img.shields.io/badge/-UDEMY-yellow) Complete Data Analyst Bootcamp ](https://www.udemy.com/certificate/UC-4531de8c-4faf-4a9c-8017-924df21a709c/)
-- [![COURSERA](https://img.shields.io/badge/-COURSERA-blue)Google Data Analytics](https://www.coursera.org/account/accomplishments/specialization/certificate/PXV5PSYWG2ZB)
+- [![COURSERA](https://img.shields.io/badge/-COURSERA-blue) Google Data Analytics](https://www.coursera.org/account/accomplishments/specialization/certificate/PXV5PSYWG2ZB)
 ---
 [![](https://visitcount.itsvg.in/api?id=phatloclht&icon=0&color=0)](https://visitcount.itsvg.in)
